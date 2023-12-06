@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 🔭 I’m currently Pursuing Msc IN Advanced Computer Science and have Completed Bsc in Computer Science University Of Leeds 
+- 👯 I’m looking to collaborate on Full Stack JS Projects
+- 😄 Pronouns: HE / HIM
+- ⚡ Fun fact : IM a runner  🏃🏼
+- 👨🏽‍💻 I Im Proficient in Front end Development Including Most JS frameworks
 
 <!--
 **karimalydev/karimalydev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
