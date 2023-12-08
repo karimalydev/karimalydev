@@ -1,8 +1,8 @@
 ### Hi there 👋
-- 🔭 I’m currently Pursuing Msc IN Advanced Computer Science and have Completed Bsc in Computer Science University Of Leeds 
+- 🔭 I’m currently Pursuing Msc in Advanced Computer Science and have Completed Bsc in Computer Science University Of Leeds 
 - 👯 I’m looking to collaborate on Full Stack JS Projects
 - 😄 Pronouns: HE / HIM
-- ⚡ Fun fact : IM a runner  🏃🏼
+- ⚡ Fun fact : IM a runner  🏃🏼 & climber 🧗🏼‍♂️
 - 👨🏽‍💻 I Im Proficient in Front end Development Including Most JS frameworks
 
 <!--
